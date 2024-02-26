@@ -19,4 +19,4 @@ My source code is based on the example found here:
 https://audiodiwhy.blogspot.com/2021/06/embedded-c-avr-getting-oled-display.html
 The SSD1306 libraries i2c.c, i2c.h, SSD1306.c, and SSD1306.h were downloaded from
 https://github.com/Preston-Sundar/AVR-OLED-SSD1306-IIC-DRIVER
-The file called README.md is from the author of this code.
+
