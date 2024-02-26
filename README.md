@@ -9,7 +9,7 @@ makefile
 
 Be sure that the makefile has no extension. 
 
-To compile, type "make" from the Command Promot (Windows) or from Terminal (macOS).
+To compile, type "make" from the Command Prompt (Windows) or from Terminal (macOS).
 To flash the compiled code to your AVR microcontroller, type "make flash"
 
 Note that sometimes, it is necessary to re-compile even when you haven't made changes to the 
