@@ -17,6 +17,7 @@ source code. For this situation, type "make -B"
 
 My source code is based on the example found here:
 https://audiodiwhy.blogspot.com/2021/06/embedded-c-avr-getting-oled-display.html
-The SSD1306 libraries i2c.c, i2c.h, SSD1306.c, and SSD1306.h were downloaded from
+The SSD1306 libraries i2c.c, i2c.h, SSD1306.c, and SSD1306.h were downloaded from Preston Sundar's github here: 
 https://github.com/Preston-Sundar/AVR-OLED-SSD1306-IIC-DRIVER
+All codes are open-source covered under the MIT license
 
