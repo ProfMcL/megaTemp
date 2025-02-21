@@ -1,5 +1,5 @@
 # megaTemp
-Code for embedded ATmega328p, TMP36, SSD OLED digital thermometer project for ECE-304 Spring 2024 @UMass
+Code for embedded ATmega328p, TMP36, SSD OLED digital thermometer project for ECE-304 @UMass
 
 
 To build this code, create a project folder that contains the following files:
